@@ -42,13 +42,6 @@
     } else if (key === 'Enter'){
         calculate();
    } else if (key === 'Backspace'){
-
-
-
-
-
-
-    
         deleteLast();
     } else if (key.toLowerCase() === 'c'){
         clearDisplay();
